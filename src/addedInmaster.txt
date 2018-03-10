@@ -1,7 +1,9 @@
 line-1
 
 line-3
-
+added feat 1
 line-5
 
 line-7
+added feat1
+these were all changed in dev1
