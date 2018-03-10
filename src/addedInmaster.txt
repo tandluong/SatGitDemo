@@ -1,7 +1,9 @@
 line-1
-
+fixed bug 1
 line-3
-
+fixed bug 1
 line-5
-
+fixed bug 1
 line-7
+
+these were all changed in dev1
